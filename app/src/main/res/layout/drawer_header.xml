@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#C8A8ED9D"
+    android:orientation="vertical">
+
+
+
+                <ImageView
+                    android:id="@+id/logimgvie"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:padding="10dp"
+                    />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Menu"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"/>
+
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Header"-->
+<!--        android:textColor="@color/black" />-->
+
+</LinearLayout>
+
+<!--<LinearLayout-->
+<!--    xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    android:orientation="vertical">-->
+
+<!--    <ImageView-->
+<!--        android:id="@+id/header_image"-->
+<!--        android:layout_width="140dp"-->
+<!--        android:layout_height="120dp"-->
+<!--        android:layout_centerInParent="true"-->
+<!--        android:scaleType="centerCrop"-->
+<!--        android:src="@drawable/ic_log_1" />-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/header_text_view"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_below="@+id/header_image"-->
+<!--        android:text="User name"-->
+<!--        android:textSize="20sp"-->
+<!--        android:layout_gravity="center"-->
+<!--        android:layout_marginTop="10dp"/>-->
+
+<!--</LinearLayout>-->
