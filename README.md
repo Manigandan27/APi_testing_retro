@@ -3,4 +3,4 @@ retro api data receiving
 
 Navigation view 
 Recyclerview
-Ui designs are created to implement in the main project
+Ui designs are created to implement in the project
